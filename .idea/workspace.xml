@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e916c153-c94d-4837-822e-52fcfa9d95b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/vendor.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/vendor.json" afterDir="false" />
-    </list>
+    <list default="true" id="e916c153-c94d-4837-822e-52fcfa9d95b8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
